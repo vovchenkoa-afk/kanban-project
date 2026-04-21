@@ -19,4 +19,5 @@
 ---
 
 ## 📂 Посилання на репозиторій
-https://github.com/vovchenkoa-afk/kanban-projec
+https://github.com/vovchenkoa-afk/kanban-project/tree/main
+
